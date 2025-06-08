@@ -2,6 +2,7 @@ import { useState } from 'react'
 import { format } from 'date-fns'
 
 // This is the main calendar component
+// adding another line to commit
 function App() {
   const [currentDate, setCurrentDate] = useState(new Date())
 
