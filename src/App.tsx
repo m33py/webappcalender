@@ -2,7 +2,8 @@ import { useState } from 'react'
 import { format } from 'date-fns'
 
 // This is the main calendar component
-// Adding a new comment in the new-feature-branch
+// adding another line to commit
+// Adding a new comment in the new-feature-branch        
 function App() {
   const [currentDate, setCurrentDate] = useState(new Date())
 
